@@ -35,7 +35,7 @@ const App = () => {
           </div>
           <div className="mb-8 md:mb-16 -mx-5 sm:mx-0">
             <div className="-mx-5 sm:mx-0">
-              <img src='/media/kohicafe.png' alt="" width="2000" height="1000" className="shadow-small max-w-full max-h-full"/>
+              <img src='Portfolio/media/kohicafe.png' alt="" width="2000" height="1000" className="shadow-small max-w-full max-h-full"/>
             </div>
           </div>
           <div className="max-w-2xl mx-auto">
@@ -69,7 +69,7 @@ const App = () => {
               <div className="mb-5">
                 <div className="-mx-5 sm:mx-0">
                   <a target="_blank" aria-label="discord bot" href="https://github.com/IcedMacchiato/Tabebot">
-                    <img width="2000" height="1000" alt="" className="shadow-small hover:shadow-medium transition-shadow duration-200 max-w-full max-h-full" src="/media/tabelog.png"/>
+                    <img width="2000" height="1000" alt="" className="shadow-small hover:shadow-medium transition-shadow duration-200 max-w-full max-h-full" src="Portfolio/media/tabelog.png"/>
                   </a>
                 </div>
               </div>
@@ -86,7 +86,7 @@ const App = () => {
                   <div className="mb-5">
                     <div className="-mx-5 sm:mx-0">
                         <a target="_blank" aria-label="C++ coffee shop oop" href="https://github.com/IcedMacchiato/kohi-shop">
-                          <img width="2000" height="1000" alt="Cover Image for Dynamic Routing and Static Generation" className="shadow-small hover:shadow-medium transition-shadow duration-200 max-w-full max-h-full" src="/media/coffeeshop.png"/>
+                          <img width="2000" height="1000" alt="Cover Image for Dynamic Routing and Static Generation" className="shadow-small hover:shadow-medium transition-shadow duration-200 max-w-full max-h-full" src="Portfolio/media/coffeeshop.png"/>
                         </a>
                     </div>
                   </div>
@@ -102,7 +102,7 @@ const App = () => {
                 <div className="mb-5">
                   <div className="-mx-5 sm:mx-0">
                     <a target="_blank" aria-label="minimalist website" href="https://github.com/IcedMacchiato/Kohi">
-                      <img width="2000" height="1000" alt="" className="shadow-small hover:shadow-medium transition-shadow duration-200 max-w-full max-h-full" src="/media/kohi.png"/>
+                      <img width="2000" height="1000" alt="" className="shadow-small hover:shadow-medium transition-shadow duration-200 max-w-full max-h-full" src="Portfolio/media/kohi.png"/>
                     </a>
                   </div>
                 </div>
@@ -119,7 +119,7 @@ const App = () => {
               <div className="mb-5">
                 <div className="-mx-5 sm:mx-0">
                   <a target="_blank" aria-label="trend analysis" href="https://github.com/IcedMacchiato/BTC-ETH-DOGE-21-22-Analysis">
-                    <img width="2000" height="1000" alt="" className="shadow-small hover:shadow-medium transition-shadow duration-200 max-w-full max-h-full" src="/media/graphs.png"/>
+                    <img width="2000" height="1000" alt="" className="shadow-small hover:shadow-medium transition-shadow duration-200 max-w-full max-h-full" src="Portfolio/media/graphs.png"/>
                   </a>
                 </div>
               </div>

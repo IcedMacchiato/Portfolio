@@ -35,7 +35,7 @@ const App = () => {
           </div>
           <div className="mb-8 md:mb-16 -mx-5 sm:mx-0">
             <div className="-mx-5 sm:mx-0">
-              <img src='%PUBLIC_URL%/media/kohicafe.png' alt="" width="2000" height="1000" className="shadow-small max-w-full max-h-full"/>
+              <img src="https://raw.githubusercontent.com/IcedMacchiato/Portfolio/main/public/media/kohicafe.png" alt="" width="2000" height="1000" className="shadow-small max-w-full max-h-full"/>
             </div>
           </div>
           <div className="max-w-2xl mx-auto">
@@ -69,7 +69,7 @@ const App = () => {
               <div className="mb-5">
                 <div className="-mx-5 sm:mx-0">
                   <a target="_blank" aria-label="discord bot" href="https://github.com/IcedMacchiato/Tabebot">
-                    <img width="2000" height="1000" alt="" className="shadow-small hover:shadow-medium transition-shadow duration-200 max-w-full max-h-full" src="./Portfolio/media/tabelog.png"/>
+                    <img width="2000" height="1000" alt="" className="shadow-small hover:shadow-medium transition-shadow duration-200 max-w-full max-h-full" src="https://raw.githubusercontent.com/IcedMacchiato/Portfolio/main/public/media/tabelog.png"/>
                   </a>
                 </div>
               </div>
@@ -86,7 +86,7 @@ const App = () => {
                   <div className="mb-5">
                     <div className="-mx-5 sm:mx-0">
                         <a target="_blank" aria-label="C++ coffee shop oop" href="https://github.com/IcedMacchiato/kohi-shop">
-                          <img width="2000" height="1000" alt="Cover Image for Dynamic Routing and Static Generation" className="shadow-small hover:shadow-medium transition-shadow duration-200 max-w-full max-h-full" src="./Portfolio/media/coffeeshop.png"/>
+                          <img width="2000" height="1000" alt="Cover Image for Dynamic Routing and Static Generation" className="shadow-small hover:shadow-medium transition-shadow duration-200 max-w-full max-h-full" src="https://raw.githubusercontent.com/IcedMacchiato/Portfolio/main/public/media/coffeeshop.png"/>
                         </a>
                     </div>
                   </div>
@@ -96,13 +96,13 @@ const App = () => {
                   <div className="text-lg mb-4">
                     <time datetime="2023-04-07T06:00:00.000Z">Apr, 2023</time>
                   </div>
-                    <p className="text-lg leading-relaxed mb-4">C++ Test Coffee Shop project is a programming exercise that creates classes and adds items to a coffee shop simulation using OOP concepts in C++. The project allows customers to place orders, pay for their drinks, and receive them. It also uses OOP principles like inheritance, polymorphism, and encapsulation to model real-world entities and their interactions.</p>          
+                    <p className="text-lg leading-relaxed mb-4">C++ Test Coffee Shop project is a programming exercise that creates classes and adds items to a coffee shop simulation using OOP concepts. The project allows customers to place orders, pay for their drinks, and receive them. It also uses OOP principles like inheritance, polymorphism, and encapsulation to model real-world entities and their interactions.</p>          
                 </div>
               <div>
                 <div className="mb-5">
                   <div className="-mx-5 sm:mx-0">
                     <a target="_blank" aria-label="minimalist website" href="https://github.com/IcedMacchiato/Kohi">
-                      <img width="2000" height="1000" alt="" className="shadow-small hover:shadow-medium transition-shadow duration-200 max-w-full max-h-full" src="./Portfolio/media/kohi.png"/>
+                      <img width="2000" height="1000" alt="" className="shadow-small hover:shadow-medium transition-shadow duration-200 max-w-full max-h-full" src="https://raw.githubusercontent.com/IcedMacchiato/Portfolio/main/public/media/kohi.png"/>
                     </a>
                   </div>
                 </div>
@@ -119,7 +119,7 @@ const App = () => {
               <div className="mb-5">
                 <div className="-mx-5 sm:mx-0">
                   <a target="_blank" aria-label="trend analysis" href="https://github.com/IcedMacchiato/BTC-ETH-DOGE-21-22-Analysis">
-                    <img width="2000" height="1000" alt="" className="shadow-small hover:shadow-medium transition-shadow duration-200 max-w-full max-h-full" src="./Portfolio/media/graphs.png"/>
+                    <img width="2000" height="1000" alt="" className="shadow-small hover:shadow-medium transition-shadow duration-200 max-w-full max-h-full" src="https://raw.githubusercontent.com/IcedMacchiato/Portfolio/main/public/media/graphs.png"/>
                   </a>
                 </div>
               </div>

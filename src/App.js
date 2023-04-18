@@ -35,7 +35,7 @@ const App = () => {
           </div>
           <div className="mb-8 md:mb-16 -mx-5 sm:mx-0">
             <div className="-mx-5 sm:mx-0">
-              <img src='./Portfolio/media/kohicafe.png' alt="" width="2000" height="1000" className="shadow-small max-w-full max-h-full"/>
+              <img src='%PUBLIC_URL%/media/kohicafe.png' alt="" width="2000" height="1000" className="shadow-small max-w-full max-h-full"/>
             </div>
           </div>
           <div className="max-w-2xl mx-auto">

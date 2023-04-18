@@ -23,7 +23,7 @@ const App = () => {
   <main>
       <div className="container mx-auto px-5">
         <h2 className="text-2xl md:text-4xl font-bold tracking-light md:tracking-tighter leading-tight mb-20 mt-8">
-          <a className="hover:underline" href="/">Kohi</a> .
+          <a target="_blank" className="hover:underline" href="https://github.com/IcedMacchiato">Kohi</a> .
         </h2>
       <article>
         <h1 className="text-6xl md:text-7xl lg:text-8xl font-bold tracking-tighter leading-tight md:leading-none mb-12 text-center md:text-left">Software Engineer</h1>
